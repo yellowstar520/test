@@ -2,4 +2,4 @@ test
 ====
 
 my first git
-fuck！
+中文不显示啊！
